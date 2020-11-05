@@ -1,8 +1,11 @@
 {
-  "name": "userefcallback-explanation",
+  "name": "userefcallback-explained",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "A proper description about how to use useCallback hooks and how a improved version of it (useRefCallback) may work",
+  "keywords": [
+    "userefcallback",
+    "usecallback"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "react": "17.0.0",
